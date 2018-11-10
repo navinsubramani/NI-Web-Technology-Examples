@@ -4,7 +4,7 @@ We will look into what it takes to develop the basic components required to moni
 # Example: Monitoring a simple Temperature Controller
 I have embedded the quick demo of application through GIF below that shows the 3 components: LabVIEW application that generates data(in left), Web page streams the data (on right) and Web Service is shown in the LabVIEW project below.
 
-![](https://boringengineer.com/wp-content/uploads/2018/07/Monitor-Temperature-Controller.gif)
+![](https://github.com/navinsubramani/NI-Web-Technology-Examples/blob/master/Monitor%20Temperature%20Controller.gif)
 
 # Different software pieces to build the Monitor and Control Systems
 There are 3 components we need to get in place to achieve this and the below flow explains it.
